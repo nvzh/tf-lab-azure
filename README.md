@@ -1,7 +1,9 @@
 ### To Do
 - Add MSR 3.0.x 
 - Load Balancer doesn't route requests
-- Add 50G disk to NSF node
-- Adjust "t" script to work with Azure 
+- Generate SSH keys via terraform
+- Substitute configGenerator with "terraform output"
+- Ubuntu Jammy in the config table
 
 ### Known Issues
+- MSR installation fails
