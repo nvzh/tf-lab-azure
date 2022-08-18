@@ -158,7 +158,7 @@ EOL
     replicaIDs: sequential
 EOL
     else
-      nfs_address="$name-$caseNo-nfs.$region.cloudapp.azure.com"
+      nfs_address="$name-$caseNo-nfs-0.$region.cloudapp.azure.com"
       cat >> launchpad.yaml << EOL
   msr:
     version: $msr_version
