@@ -6,4 +6,3 @@
 - Ubuntu Jammy in the config table
 
 ### Known Issues
-- MSR installation fails
